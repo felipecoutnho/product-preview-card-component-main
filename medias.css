@@ -1,0 +1,20 @@
+@media screen and (max-width:799px) {
+    section{
+        display: flex;
+        flex-direction: column;
+       
+    }
+
+    figure img{
+        display: none;
+        
+    }
+
+    figure .image-mobile{
+        display: block;
+    }
+
+    .attribution{
+        display: none;
+    }
+}
