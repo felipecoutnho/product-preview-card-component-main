@@ -18,6 +18,13 @@
         width: 380px;
     }
 
+    article {
+        width: 380px;
+        background-color: #FFF;
+        padding: 35px;
+        margin-bottom: 5px;
+    }
+
     article h2{
         font-weight: 700;
         margin-bottom: 19px;
