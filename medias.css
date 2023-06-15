@@ -1,0 +1,56 @@
+@media screen and (max-width:799px) {
+    
+    
+    section{
+        display: flex;
+        flex-direction: column;
+        margin-top: 4rem;
+        
+    }
+
+    figure img{
+        display: none;
+        
+    }
+
+    figure .image-mobile{
+        display: block;
+        width: 380px;
+    }
+
+    article {
+        width: 380px;
+        background-color: #FFF;
+        padding: 35px;
+        margin-bottom: 5px;
+    }
+
+    article h2{
+        font-weight: 700;
+        margin-bottom: 19px;
+        padding: 25px 0px 0px 29px;
+    }
+
+    article h1 {
+        font-size: 37px;
+        width: 91%;
+        line-height: 36px;
+    }
+
+    article p {
+        font-size: 14px;
+        font-weight: 600;
+        width: 86%;
+        line-height: 26px;
+        margin-bottom: 27px;
+        margin-top: 22px;
+    }
+
+    .values p {
+        margin-right: 2rem;
+    }
+
+    .attribution{
+        display: none;
+    }
+}
